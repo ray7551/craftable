@@ -34,11 +34,17 @@
             "role": "Developer"
         }
     ],
+    "repositories": [
+      {
+        "type": "vcs",
+        "url":  "https://github.com/ray7551/admin-translations.git"
+      }
+    ],
     "require": {
         "php": "^7.2.5",
         "brackets/admin-auth": "^5.0",
         "brackets/admin-listing": "^3.0",
-        "brackets/admin-translations": "^4.0",
+        "brackets/admin-translations": "dev-fix-dash-locale",
         "brackets/admin-ui": "^4.0",
         "brackets/advanced-logger": "^2.0",
         "brackets/media": "^4.0",
