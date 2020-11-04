@@ -44,7 +44,7 @@
         "php": "^7.4.0",
         "brackets/admin-auth": "^6.0",
         "brackets/admin-listing": "^3.0",
-        "brackets/admin-translations": "dev-dev-fix-dash-locale",
+        "brackets/admin-translations": "dev-fix-dash-locale",
         "brackets/admin-ui": "^4.0",
         "brackets/advanced-logger": "^2.0",
         "brackets/media": "^5.0",
